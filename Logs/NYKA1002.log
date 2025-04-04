@@ -1,0 +1,3 @@
+NYKA1002
+2025-03-18T08:44:01.520	removeShares	shareID: NYKE110925 shareType: Bonus Result: No shares of the provided type are available in the DSMSService. So, no changes were made.
+2025-03-18T08:44:01.521	addShares	shareID: NYKE110925 shareType: Bonus capacity: 20 Result: Successfully added 20 shares to (Bonus, NYKE110925)

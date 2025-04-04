@@ -1,0 +1,14 @@
+NYK
+2025-03-22T17:05:08.951	addShare	shareID: NYKM100925, shareType: Bonus, capacity: 100Status: Success, serverResponse: Successfully added 100 shares to (Bonus, NYKM100925)
+2025-03-22T17:35:35.478	purchaseShare	buyerID: NYKA1234, shareID: NYKM100925, shareType: Bonus, shareCount: 30Status: Success, serverResponse: 
+Successfully purchased 30 of (Bonus:NYKM100925) shares for the user NYKA1234
+
+2025-03-22T17:36:02.252	purchaseShare	buyerID: NYKA1234, shareID: TOKM100925, shareType: Equity, shareCount: 30Status: Success, serverResponse: 
+Successfully purchased 30 of (Equity:TOKM100925) shares for the user NYKA1234
+
+2025-03-22T17:36:02.252	sellShare	buyerID: NYKA1234, shareID: NYKM100925, shareCount: 30Status: Success, serverResponse: Shares available for the user are 30. So selling all shares available.
+Successfully sold 30 of (NYKM100925) shares for the user NYKA1234
+2025-03-22T17:36:02.253	swapShares	buyerID: NYKA1234, oldShareID: NYKM100925, oldShareType: Bonus, newShareID: TOKM100925, newShareType: EquityStatus: Success, serverResponse: 
+Successfully purchased 30 of (Equity:TOKM100925) shares for the user NYKA1234
+Shares available for the user are 30. So selling all shares available.
+Successfully sold 30 of (NYKM100925) shares for the user NYKA1234

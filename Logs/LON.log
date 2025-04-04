@@ -1,0 +1,22 @@
+LON
+2025-03-22T17:06:07.974	addShare	shareID: LONM100925, shareType: Dividend, capacity: 300Status: Success, serverResponse: Successfully added 300 shares to (Dividend, LONM100925)
+2025-03-22T17:06:22.601	listShareAvailability	shareType: BonusStatus: Success, serverResponse: 
+No shares of type - Bonus found in server:LON
+NYKM100925 100
+
+No shares of type - Bonus found in server:TOK
+
+2025-03-22T17:06:30.273	listShareAvailability	shareType: EquityStatus: Success, serverResponse: 
+No shares of type - Equity found in server:LON
+
+No shares of type - Equity found in server:NYK
+TOKM100925 200
+
+2025-03-22T17:19:33.018	removeShare	shareID: LONM100925, shareType: DividendStatus: Success, serverResponse: Successfully removed 300 shares to (Dividend, LONM100925)
+2025-03-22T17:19:46.926	addShare	shareID: LONM100925, shareType: Dividend, capacity: 230Status: Success, serverResponse: Successfully added 230 shares to (Dividend, LONM100925)
+2025-03-22T17:19:52.008	listShareAvailability	shareType: DividendStatus: Success, serverResponse: LONM100925 230
+
+No shares of type - Dividend found in server:NYK
+
+No shares of type - Dividend found in server:TOK
+

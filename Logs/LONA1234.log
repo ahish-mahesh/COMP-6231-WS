@@ -1,0 +1,22 @@
+LONA1234
+2025-03-22T17:06:07.994	addShares	shareID: LONM100925 shareType: Dividend capacity: 300 Result: Successfully added 300 shares to (Dividend, LONM100925)
+2025-03-22T17:06:22.605	listShareAvailability	shareType: Bonus Result: 
+No shares of type - Bonus found in server:LON
+NYKM100925 100
+
+No shares of type - Bonus found in server:TOK
+
+2025-03-22T17:06:30.275	listShareAvailability	shareType: Equity Result: 
+No shares of type - Equity found in server:LON
+
+No shares of type - Equity found in server:NYK
+TOKM100925 200
+
+2025-03-22T17:19:33.023	removeShares	shareID: LONM100925 shareType: Dividend Result: Successfully removed 300 shares to (Dividend, LONM100925)
+2025-03-22T17:19:46.929	addShares	shareID: LONM100925 shareType: Dividend capacity: 230 Result: Successfully added 230 shares to (Dividend, LONM100925)
+2025-03-22T17:19:52.010	listShareAvailability	shareType: Dividend Result: LONM100925 230
+
+No shares of type - Dividend found in server:NYK
+
+No shares of type - Dividend found in server:TOK
+

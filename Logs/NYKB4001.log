@@ -1,0 +1,11 @@
+NYKB4001
+2025-03-18T08:44:09.671	swapShares	oldShareID: NYKM100925 oldShareType: Equity newShareID: LONM101025 newShareType: Bonus Result: 0
+2025-03-18T08:44:09.673	swapShares	oldShareID: NYKM100925 oldShareType: Equity newShareID: LONM999999 newShareType: Bonus Result: Unable to swap shares. Exception: For input string: "
+You have already made a purchase under this shareID and shareType. No more purchases are allowed.
+"
+2025-03-18T08:44:09.674	swapShares	oldShareID: NYKM999999 oldShareType: Equity newShareID: LONM101025 newShareType: Bonus Result: 
+Successfully purchased 1 of (Bonus:LONM101025) shares for the user NYKB4001
+No shares found for NYKM999999
+2025-03-18T08:44:09.675	swapShares	oldShareID: NYKM100925 oldShareType: Equity newShareID: LONM101025 newShareType: Bonus Result: 
+You have already made a purchase under this shareID and shareType. No more purchases are allowed.
+

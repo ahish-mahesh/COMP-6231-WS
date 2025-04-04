@@ -1,0 +1,9 @@
+NYKA1234
+2025-03-22T17:05:08.977	addShares	shareID: NYKM100925 shareType: Bonus capacity: 100 Result: Successfully added 100 shares to (Bonus, NYKM100925)
+2025-03-22T17:35:35.482	buyShares	shareID: NYKM100925 shareType: Bonus quantity: 30 Result: 
+Successfully purchased 30 of (Bonus:NYKM100925) shares for the user NYKA1234
+
+2025-03-22T17:36:02.255	swapShares	oldShareID: NYKM100925 oldShareType: Bonus newShareID: TOKM100925 newShareType: Equity Result: 
+Successfully purchased 30 of (Equity:TOKM100925) shares for the user NYKA1234
+Shares available for the user are 30. So selling all shares available.
+Successfully sold 30 of (NYKM100925) shares for the user NYKA1234
